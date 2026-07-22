@@ -14,12 +14,12 @@ const Footer = () => {
             <p className="text-sm text-gray-600 mt-1">
                 Powered by{" "}
                 <a
-                    href="https://github.com/Ashutoshsarathe"
+                    href="https://github.com/GouravChouksey"
                     target="_blank"
                     rel="noopener noreferrer"
                     className="text-blue-600 hover:underline"
                 >
-                    Ashutosh Sarathe
+                    Gourav Chouksey
                 </a>
             </p>
 
